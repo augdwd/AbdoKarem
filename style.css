@@ -22,11 +22,11 @@ span{
 }
 .square{
     width: 129px;
-    height:129px;
+    height:200px;
     background: #f25;
     float: left;
     margin: 2px;
-    font-size: 5rem;
+    font-size: 6rem;
    
     
 }
